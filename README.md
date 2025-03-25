@@ -51,7 +51,7 @@ After cleaning, the dataset is structured, accurate, and ready for further analy
 
 **📫 Connect with Me**
 
-*GitHub: *
+*GitHub: https://github.com/jagan-p-ramdas*
 
 *LinkedIn: https://www.linkedin.com/in/jagan-p-ramdas-9b939530a/*
 
