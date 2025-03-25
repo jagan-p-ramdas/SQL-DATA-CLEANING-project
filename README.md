@@ -6,6 +6,8 @@
 
 This project focuses on cleaning and preprocessing raw employee layoff data from around the world using SQL to improve data quality and ensure accuracy. The goal is to remove inconsistencies, handle missing values, standardize formats, and prepare the data for analysis.
 
+*DATA SET LINK** *https://www.kaggle.com/datasets/swaptr/layoffs-2022*
+
 **🔧 Technologies Used**
 
 SQL (MySQL, )
