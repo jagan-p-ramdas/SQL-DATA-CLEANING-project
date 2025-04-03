@@ -8,7 +8,7 @@ This project focuses on cleaning and preprocessing raw employee layoff data from
 
 **🔧 Technologies Used**
 
-SQL (MySQL, )
+SQL (MySQL)
 
 Database Management Systems (DBMS)
 
