@@ -46,7 +46,7 @@ Ensuring Data Integrity - Used primary keys and constraints to maintain consiste
 
 **📈 Results & Insights**
 
-After cleaning, the dataset is structured, accurate,and ready for further analysis or visualization in BI tools like Power BI or Tableau. Insights from this cleaned data can help understand trends in layoffs across industries and regions.
+After cleaning, the dataset is structured, accurate,and ready for further analysis or visualization in BI tools like Power BI or Tableau.Insights from this cleaned data can help understand trends in layoffs across industries and regions.
 
 
 **📫 Connect with Me**
