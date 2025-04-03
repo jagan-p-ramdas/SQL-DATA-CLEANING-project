@@ -1,5 +1,3 @@
-
-
 # *SQL Data Cleaning Project*🧹
 
 **📌 Project Overview**
