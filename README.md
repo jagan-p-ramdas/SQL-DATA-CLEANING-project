@@ -16,7 +16,7 @@ Data Cleaning Techniques (Removing duplicates, handling null values, fixing inco
 
 **📂 Dataset**
 
-The project works with a raw dataset containing information about global employee layoffs. The dataset includes:
+The project works with a raw dataset containing information about global employee layoffs.The dataset includes:
 
 Company name
 
